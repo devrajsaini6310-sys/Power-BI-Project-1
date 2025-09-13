@@ -40,6 +40,3 @@ Dashboard Visualizations :-
 
 
 
-README.md: This file.
-
-Contact: Provide your GitHub profile or professional email for inquiries. (e.g., "For questions or feedback, please open an issue on this repository or contact me at your_email@example.com.")
