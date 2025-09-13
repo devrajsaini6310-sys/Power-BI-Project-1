@@ -46,7 +46,7 @@ Dashboard Visualizations :-
  
                 This dashboard provides a comprehensive view of sales performance, profitability, and customer behavior. 
                 
-                It allows users to ​Track sales and profit over the time.
+                It allows users to ​Track sales and profit over the time. 
                 
                 ​Analyze performance by category, sub-category, and product.
                 
