@@ -5,6 +5,9 @@ Super store sales and profit performance dashboard
 Project Objective :- 
 
 Interactive sales dashboard built in Power BI to analyze and visualize sales performance, profitability, and key metrics for a superstore.
+This Power BI dashboard provides a comprehensive analysis of superstore sales data, 
+offering key insights into performance and trends. 
+The report is designed for business users to quickly understand sales dynamics and make data-driven decisions.
                    
 Key Features:-
 
