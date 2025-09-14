@@ -72,6 +72,16 @@ Open the .pbix file with Power BI Desktop.
 
 Use the filters and slicers to interact with the data and explore different segments.
 
+Repository Structure:__________________________________
+
+Files:___________
+
+Reliance_super_store_sales_Report.pbix : The Power BI report file.
+
+Reliance_super_store_data.xlsx : The dataset used for the report.
+
+README.md: This file.
+
 
 
 
