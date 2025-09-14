@@ -45,9 +45,13 @@ subcategory, segment, state, city and Region to compare performance across diffe
 Key Insights:- ​
 
 This dashboard provides a comprehensive view of sales performance, profitability, and customer behavior. 
+
 It allows users to ​Track sales and profit over the time. 
+
 ​Analyze performance by category, sub-category, and product.
+
 Identify top-performing Geographical locations.
+
 Pinpoint areas of low profitability for strategic intervention.
               
 How to View this dashboard and Interact :-
