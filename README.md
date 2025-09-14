@@ -1,4 +1,4 @@
-Project Title:
+Project Title:___________________________________
 
 Super store sales and profit performance dashboard
                
