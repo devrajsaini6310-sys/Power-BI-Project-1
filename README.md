@@ -57,8 +57,11 @@ Pinpoint areas of low profitability for strategic intervention.
 How to View this dashboard and Interact :-
 
 the software required to view this report, you need Power BI Desktop installed on your computer.
+
 Download this repository to your PC.
+
 Open the .pbix file with Power BI Desktop.
+
 Use the filters and slicers to interact with the data and explore different segments.
 
 
