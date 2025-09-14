@@ -11,7 +11,8 @@ The report is designed for business users to quickly understand sales dynamics a
                    
 Key Features:-
 
-Interactive slicers for filtering by category, subcategory, segment, state, city, region and time.
+Interactive slicers for filtering data by category, subcategory, segment, state, city, region and time.
+
 Visualizations for sales trends, profit analysis, and customer segmentation.
 
 KPIs :- 
