@@ -36,7 +36,7 @@ DATA MODELING AND RELATIONSHIPS :_____________________________
 
 I have only one dataset in this Project that is Orders table.
 
-but if we have you multiple data tables in a project then we have required a data model
+but if we have multiple data tables in a project then we have required a data model
 
 to create a relationship between multiples tables for analyze them.
 
