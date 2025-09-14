@@ -15,24 +15,17 @@ KPIs :-
         Key Performance Indicators to monitor overall performance at a glance.
 
 Data Source and Preparation :-
+                              The dataset is an Excel file named Reliancr_super_store_data.xlsx containing detailed sales transactions.
+                                
+Data Transformation and Data cleaning : - 
 
-                 Data Source:-
-                 
-                              The dataset is a Excel file named Reliancr_super_store_data.xlsx containing detailed sales transactions.
-                              
-                 Data Transformation and Data cleaning : - 
-                 
-                                                          I used Power Query Editor to clean and prepare the data.
+                  I used Power Query Editor to clean and prepare the data.
                                                           
-                                                          I handling of missing values, removing duplicates, and correcting data type.  
+                  I handling of missing values, removing duplicates, and correcting data type.  
                                                           
-                                                          Data Modeling and Relationships :-  
+Data Modeling and Relationships :-  
                                                           
-                                                                                          I have only one dataset in this Project that is Orders table 
-                                                                                          
-                                   but if we have you multiple data tables in a project then we have required a data model to create a relationship between multiples tables.
-                                   
-                                   in this dataset we do not need to build a modeling.
+                                  I have only one dataset in this Project that is Orders table but if we have you multiple data tables in a project then we have required a data model to create a relationship between multiples tables for analyze them.in this dataset we do not need to build a modeling.
                                    
                                    
 Dashboard Visualizations :-
