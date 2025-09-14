@@ -38,6 +38,7 @@ in this dataset we do not need to build a modeling.
 Dashboard Visualizations :-
 
 Line Chart:- Sales and Profit Over Time to identify seasonal trends.
+
 Bar Chart, Column Chart, Pie chart, Dounut Chart and so more:- Sales and Profit by Category, 
 subcategory, segment, state, city and Region to compare performance across different geographical areas.
                
