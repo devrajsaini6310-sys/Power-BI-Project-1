@@ -31,33 +31,22 @@ Data Modeling and Relationships :-
                                    
                                    
 Dashboard Visualizations :-
-
-               Line Chart:- Sales and Profit Over Time to identify seasonal trends.
+Line Chart:- Sales and Profit Over Time to identify seasonal trends.
+Bar Chart, Column Chart, Pie chart, Dounut Chart and so more:- Sales and Profit by Category, 
+subcategory, segment, state, city and Region to compare performance across different geographical areas.
                
-               Bar Chart, Column Chart, Pie chart, Dounut Chart and so more:- Sales and Profit by Category, subcategory, segment, state, city and Region to compare performance across different geographical areas.
-               
-
- Key Insights:- ​
- 
-                This dashboard provides a comprehensive view of sales performance, profitability, and customer behavior. 
-                
-                It allows users to ​Track sales and profit over the time. 
-                
-                ​Analyze performance by category, sub-category, and product.
-                
-​                Identify top-performing Geographical locations.
-
-​                Pinpoint areas of low profitability for strategic intervention.
+Key Insights:- ​
+This dashboard provides a comprehensive view of sales performance, profitability, and customer behavior. 
+It allows users to ​Track sales and profit over the time. 
+​Analyze performance by category, sub-category, and product.
+Identify top-performing Geographical locations.
+Pinpoint areas of low profitability for strategic intervention.
               
-  How to View this dashboard and Interact :-
-  
-                                           the software required to view this report, you need Power BI Desktop installed on your computer.
-                                           
-                                           Download this repository to your PC.
-                                           
-                                           Open the .pbix file with Power BI Desktop.
-                                           
-                                           Use the filters and slicers to interact with the data and explore different segments.
+How to View this dashboard and Interact :-
+the software required to view this report, you need Power BI Desktop installed on your computer.
+Download this repository to your PC.
+Open the .pbix file with Power BI Desktop.
+Use the filters and slicers to interact with the data and explore different segments.
 
 
 
