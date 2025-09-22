@@ -79,7 +79,7 @@ FILES :___________________________________________
 
 Reliance dashboard.md : The Power BI Service file to view Reports on Online.
 
-Reliance super store performance dashboard.pbix: The Power BI report file.
+Reliance super store performance dashboard.pbix: Power BI Desktop file.
 
 Reliance_super_store_data.xlsx : The dataset used for the report.
 
