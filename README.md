@@ -77,9 +77,9 @@ REPOSITORY STRUCTURE :__________________________________
 FILES :___________________________________________
 
 
-Reliance dashboard.md : Power BI Service file to view Reports on Online.
+Reliance dashboard.md : This Power BI Service file to view Reports on Online.
 
-Reliance super store performance dashboard.pbix: Power BI Desktop file.
+Reliance super store performance dashboard.pbix: This Power BI Desktop file.
 
 Reliance_super_store_data.xlsx : This dataset used for the report.
 
