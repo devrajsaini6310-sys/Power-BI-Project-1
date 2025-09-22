@@ -1,6 +1,6 @@
 PROJECT TITLE :___________________
 
-SUPER STORE SALES AND PROFIT PERFORMANCE DASHBOARD 
+SALES AND PROFIT PERFORMANCE DASHBOARD FOR RELIANCE SUPER STORE
                
 PROJECT OBJECTIVE :_________________________
 
@@ -76,9 +76,10 @@ REPOSITORY STRUCTURE :__________________________________
 
 FILES :___________________________________________
 
-Online Power BI Dashboard & Reports.md : The Power BI Service file to view Reports on Online.
 
-Reliance_super_store_sales_Report.pbix : The Power BI report file.
+Reliance dashboard.md : The Power BI Service file to view Reports on Online.
+
+Reliance super store performance dashboard.pbix: The Power BI report file.
 
 Reliance_super_store_data.xlsx : The dataset used for the report.
 
